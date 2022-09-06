@@ -2,7 +2,7 @@
 CREATED BY : PavuluriSrikanth
 ## TEAM LIST
 MEMBER1 : `Pavuluri Srikanth` <br/>
-Skills Known : Python, MySQL <br/>
+Skills Known : C, Python, MySQL <br/>
 MEMBER2 : `Chandana Shivannagari` <br/>
 Skills known : C, Embedded C , Python and SQL <br/>
 MEMBER3 : `Priyavarshitha Kuppireddy` <br/>
