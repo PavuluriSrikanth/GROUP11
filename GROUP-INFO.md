@@ -8,6 +8,6 @@ Skills known : C, Embedded C , Python and SQL <br/>
 MEMBER3 : Priyavarshitha Kuppireddy <br/>
 Skills Known : Bigdata(Pyspark), SQL, Cloud(AWS,AZURE) <br/>
 MEMBER4 : Venkata Subba Reddy Kattameedi <br/>
-Skills Known : C, MySQL, Python, .Net Basic <br/>
-MEMBER5 : Madhuri Sri Yarramareddy <br/>
-Skills Known : C,Java <br/>
+Skills : C, MySQL, Python, .Net Basic <br/>
+MEMBER5 : Kalyan Kumar Goparaju
+Skills : C,Python,mySQL
