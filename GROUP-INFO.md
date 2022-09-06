@@ -13,6 +13,6 @@ MEMBER5 : Kalyan Kumar Goparaju
 Skills : C,Python,mySQL
 MEMBER6 :mamathaAmireddy <br/>
 Skills Known :C,Python,mySQL <br/>
-MEMBER6 :Madhuri Sri Yarramareddy <br/>
+MEMBER7 :Madhuri Sri Yarramareddy <br/>
 Skills Known :C,Java <br/>
 
