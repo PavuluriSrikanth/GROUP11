@@ -1,4 +1,4 @@
-# TEAM NAME :GROUP11
+No# TEAM NAME :GROUP11
 CREATED BY : PavuluriSrikanth
 ## TEAM LIST
 MEMBER1 : Pavuluri Srikanth <br/>
@@ -22,3 +22,5 @@ Skills Known :C,Python,mySQL <br/>
 MEMBER7 :Madhuri Sri Yarramareddy <br/>
 Skills Known :C,Java <br/>
 
+MEMEBER8 :Mahesh Reddy Maddikara
+Skills Known: c, python,AWS, basic of Linux 
