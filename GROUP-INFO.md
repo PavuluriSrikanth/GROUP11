@@ -11,3 +11,5 @@ MEMBER4 : Venkata Subba Reddy Kattameedi <br/>
 Skills : C, MySQL, Python, .Net Basic <br/>
 MEMBER5 : Kalyan Kumar Goparaju
 Skills : C,Python,mySQL
+MEMBER6 :mamathaAmireddy <br/>
+Skills Known :C,Python,mySQL <br/>
