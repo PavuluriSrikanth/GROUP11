@@ -22,5 +22,5 @@ Skills Known :C,Python,mySQL <br/>
 MEMBER7 :Madhuri Sri Yarramareddy <br/>
 Skills Known :C,Java <br/>
 
-MEMEBER8 :Mahesh Reddy Maddikara
-Skills Known: c, python,AWS, basic of Linux 
+MEMEBER8 :Mahesh Reddy Maddikara <br/>
+Skills Known: c, python,AWS, basic of Linux <br/>
