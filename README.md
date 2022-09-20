@@ -1,8 +1,22 @@
 GROUP11<br>
-│ --       DELIVERABLE1<br>
-│ --       GROUP-INFO.md<br>
-│--       Note-deliverable-1.md<br>
-│--       README.md<br>
+│   GROUP-INFO.md
+│   Note-deliverable-1.md
+│   README.md
+│
+└───DELIVERABLE1
+    │   .gitkeep
+    │
+    ├───meeting_minutes
+    │       .gitkeep
+    │
+    ├───planning_documents
+    │       .gitkeep
+    │
+    ├───project_reports
+    │       .gitkeep
+    │
+    └───project_source_code
+            .gitkeep
 Set of Meetings Completed By Group11:
         on 9/8/2022 at willis library- discussed about the previous project  and team members introduction.
         on 9/11/2022 connected through Zoom Meet- discussed about leads choices and the pro and cons of the Technologies.
