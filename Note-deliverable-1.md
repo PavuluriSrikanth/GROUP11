@@ -27,7 +27,7 @@
 
 
 # Meeting Minutes
-Time                       Attendees                Things Discussed 
+Time/                   Attendees/                Things Discussed 
 
 
 
