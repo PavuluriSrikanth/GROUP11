@@ -2,6 +2,7 @@ GROUP11<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│   GROUP-INFO.md<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│   Note-deliverable-1.md<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│   Note-deliverable-2.md<br>
+&nbsp;&nbsp;&nbsp;&nbsp;│   Note-deliverable3.md<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│   README.md<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│<br>
 &nbsp;&nbsp;&nbsp;&nbsp;└───DELIVERABLE1<br>
@@ -24,6 +25,8 @@ GROUP11<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    │       DELIVERABLE2(REQUIREMENTS).docx<br>
  &nbsp;&nbsp;&nbsp;&nbsp;     └───project_source_code<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    │         .gitkeep<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└───DELIVERABLE2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└───DELIVERABLE3<br>
 Set of Meetings Completed By Group11:
         on 9/8/2022 at willis library- discussed about the previous project  and team members introduction.
         on 9/11/2022 connected through Zoom Meet- discussed about leads choices and the pro and cons of the Technologies.
