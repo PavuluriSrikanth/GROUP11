@@ -1,0 +1,24 @@
+import pandas as pd
+import numpy as np
+
+data = pd.read_csv('demo.csv')
+data.head()
+data.shape
+df = data.dropna()
+df.head()
+df.shape
+df.columns
+df.info()
+df.describe()
+df.isnull()
+df.isnull().sum()
+df.STATE_UT_NAME.unique()
+df.columns
+df.flood.unique()
+df.JAN.unique().mean()
+df.FEB.unique().mean()
+df.ANNUAL.unique().min()
+df.ANNUAL.unique().max()
+df.ANNUAL.unique().mean()
+df.Avg_june10days.unique()
+df.corr()
