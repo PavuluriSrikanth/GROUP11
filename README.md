@@ -4,6 +4,7 @@ GROUP11<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│   Note-deliverable-2.md<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│   Note-deliverable3.md<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│   Note-deliverable-4.md<br>
+&nbsp;&nbsp;&nbsp;&nbsp;│   Note-deliverable-5.md<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│   README.md<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│<br>
 &nbsp;&nbsp;&nbsp;&nbsp;└───DELIVERABLE1<br>
@@ -55,6 +56,16 @@ GROUP11<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |       Meeting16.docx<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |       Meeting17.docx<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |       Meeting18.docx<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     │       gitkeep<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└───DELIVERABLE5<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    │   TeamDeliverable-5.pdf<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |       Meeting19.docx<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |       Meeting20.docx<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |       Meeting21.docx<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |       Meeting22.docx<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |       Meeting23.docx<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |       Meeting24.docx<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |       Meeting25.docx<br>
 Set of Meetings Completed By Group11:
         on 9/8/2022 at willis library- discussed about the previous project  and team members introduction.
         on 9/11/2022 connected through Zoom Meet- discussed about leads choices and the pro and cons of the Technologies.
