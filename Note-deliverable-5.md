@@ -1,8 +1,15 @@
-meeting minutes:
-https://github.com/PavuluriSrikanth/GROUP11/blob/main/DELIVERABLE5/Meeting19.docx
-Delivarable 5:
-https://github.com/PavuluriSrikanth/GROUP11/tree/main/Code
-Meeting Minutes:
-https://github.com/PavuluriSrikanth/GROUP11/blob/main/DELIVERABLE5/Meeting20.docx
-Meeting Minutes: 
-https://github.com/PavuluriSrikanth/GROUP11/blob/main/DELIVERABLE5/Meeting21.docx
+Meeting minutes:
+https://github.com/PavuluriSrikanth/GROUP11/blob/e0b44fdb24706e7c768cada39612998d0fc649f0/DELIVERABLE5/Meeting_Minutes/Meeting19.docx<br/>
+Meeting minutes:
+https://github.com/PavuluriSrikanth/GROUP11/blob/e0b44fdb24706e7c768cada39612998d0fc649f0/DELIVERABLE5/Meeting_Minutes/Meeting20.docx<br/>
+Meeting minutes:
+https://github.com/PavuluriSrikanth/GROUP11/blob/e0b44fdb24706e7c768cada39612998d0fc649f0/DELIVERABLE5/Meeting_Minutes/Meeting21.docx<br/>
+Meeting minutes:
+https://github.com/PavuluriSrikanth/GROUP11/blob/e0b44fdb24706e7c768cada39612998d0fc649f0/DELIVERABLE5/Meeting_Minutes/Meeting22.docx<br/>
+Meeting minutes:
+https://github.com/PavuluriSrikanth/GROUP11/blob/e0b44fdb24706e7c768cada39612998d0fc649f0/DELIVERABLE5/Meeting_Minutes/Meeting23.docx<br/>
+Meeting minutes:
+https://github.com/PavuluriSrikanth/GROUP11/blob/e0b44fdb24706e7c768cada39612998d0fc649f0/DELIVERABLE5/Meeting_Minutes/Meeting24.docx<br/>
+Meeting minutes:
+https://github.com/PavuluriSrikanth/GROUP11/blob/e0b44fdb24706e7c768cada39612998d0fc649f0/DELIVERABLE5/Meeting_Minutes/Meeting25.docx<br/>
+
